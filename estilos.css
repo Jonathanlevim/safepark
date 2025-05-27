@@ -1,0 +1,36 @@
+.body {
+margin: 0%;
+}
+
+.cover {
+height: 400px;
+background-position: center;
+background-size: cover;
+background-image: url(aleks-marinkovic--AWLkn2V2H8-unsplash.jpg);
+color: white;
+height: 260px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: rgba(0,0,0,0.5);
+background-blend-mode: black ;
+}
+
+.card{
+   border :0 !important;
+   box-shadow: 0 4px 6px -1 rgba(0, 0, 0, 0.1), 0 2 px 4px - 1px rgba (0,0,0,0.06);
+   
+}
+
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+
+.cover-small{
+height: 400px;
+
+
+
+
+
+
+}
